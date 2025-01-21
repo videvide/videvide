@@ -6,4 +6,4 @@
 
 [This is my blog](https://bxkgyxdlc29tzsbibg9n.xyz/)
 
-[![Vide's GitHub stats](https://github-readme-stats.vercel.app/api?username=videvide&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Vide's GitHub stats](https://github-readme-stats.vercel.app/api?username=videvide&show_icons=true&theme=apprentice)](https://github.com/anuraghazra/github-readme-stats)
