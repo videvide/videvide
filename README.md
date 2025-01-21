@@ -5,3 +5,5 @@
 - ⚡ Fun fact: ... I'm self-taught (btw)
 
 [This is my blog](https://bxkgyxdlc29tzsbibg9n.xyz/)
+
+[![Vide's GitHub stats](https://github-readme-stats.vercel.app/api?username=videvide)](https://github.com/anuraghazra/github-readme-stats)
