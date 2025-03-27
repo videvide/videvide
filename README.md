@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m building [hohle.art](https://hohle.art) — an online art platform.
-- To become a better software engineer, I’m shipping an enterprise project from my living room—are you hiring?
+- To become a better software engineer, I learn how to an enterprise project from my living room—are you hiring?
 - **Fun fact:** I started coding because I wanted to build something—turns out, I also had to learn *everything* else. 😄
 - I'm also diving into low-level topics like the kernel, networking, and security.
 
